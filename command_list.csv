@@ -1,0 +1,71 @@
+    1  git clone git@github.com:VolodymyrRiz/HW_10.git
+    2  cd HW_10
+    3  text_ignore.txt
+    4  help
+    5  touch text_ignore.txt
+    6  git status
+    7  git add
+    8  git add .
+    9  git status
+   10  git commit -m "task 1"
+   11  touch main_test.txt
+   12  git add .
+   13  git commit -m "task 2"
+   14  git checkout -b develop
+   15  git checkout develop
+   16  touch develop_test.txt
+   17  git add .
+   18  git commit -m "task 3"
+   19  git status
+   20  git add .
+   21  git commit -a
+   22  cd e:\qa\qa_git\HW_10
+   23  cd e:/qa/qa_git
+   24  cd HW_10
+   25  git status
+   26  git add .
+   27  git commit -m
+   28  git checkout main
+   29  cd e:
+   30  cd qa/qa_git
+   31  cd HW_10
+   32  git checkout main
+   33  git checkout main
+   34  git commit -m
+   35  git checkout main
+   36  git add .
+   37  git commit
+   38  cd e:
+   39  cd qa
+   40  cd qa_git
+   41  cd HW_10
+   42  git status
+   43  git rm develop_text
+   44  git status
+   45  git add .
+   46  git commit
+   47  cd e:
+   48  cd qa
+   49  cd qa/qa_git
+   50  cd qa_git
+   51  cd HW_10
+   52  git status
+   53  touch develop_text
+   54  git add .
+   55  git mv develop_text develop_test
+   56  git commit -m "task 3"
+   57  git status
+   58  git add .
+   59  git commit
+   60  cd e:
+   61  cd qa
+   62  cd qa_git
+   63  cd HW_10
+   64  git status
+   65  git checkout main
+   66  git add .
+   67  git commit -m "tas 3"
+   68  git checkout main
+   69  git merge develop
+   70  git log
+   71  history > command_list.csv
